@@ -53,6 +53,8 @@ const Dashboard = () => {
           display="flex"
           alignItems="center"
           justifyContent="center"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <StatusBox
             title="12,361"
@@ -72,6 +74,8 @@ const Dashboard = () => {
           display="flex"
           alignItems="center"
           justifyContent="center"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <StatusBox
             title="431,225"
@@ -91,6 +95,8 @@ const Dashboard = () => {
           display="flex"
           alignItems="center"
           justifyContent="center"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <StatusBox
             title="32,441"
@@ -110,6 +116,8 @@ const Dashboard = () => {
           display="flex"
           alignItems="center"
           justifyContent="center"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <StatusBox
             title="1,325,134"
@@ -129,6 +137,8 @@ const Dashboard = () => {
           gridColumn="span 8"
           gridRow="span 2"
           backgroundColor={colors.primary[400]}
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <Box
             mt="25px"
@@ -170,6 +180,8 @@ const Dashboard = () => {
           gridRow="span 2"
           backgroundColor={colors.primary[400]}
           overflow="auto"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <Box
             display="flex"
@@ -222,6 +234,8 @@ const Dashboard = () => {
           gridRow="span 2"
           backgroundColor={colors.primary[400]}
           p="30px"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <Typography variant="h5" fontWeight="600">
             Campaign
@@ -247,6 +261,8 @@ const Dashboard = () => {
           gridColumn="span 4"
           gridRow="span 2"
           backgroundColor={colors.primary[400]}
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <Typography
             variant="h5"
@@ -264,6 +280,8 @@ const Dashboard = () => {
           gridRow="span 2"
           backgroundColor={colors.primary[400]}
           padding="30px"
+          borderRadius="10px"
+          boxShadow="0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);"
         >
           <Typography
             variant="h5"
