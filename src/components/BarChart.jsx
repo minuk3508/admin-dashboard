@@ -1,5 +1,4 @@
 import { useTheme } from "@mui/material";
-import { color } from "@mui/system";
 import { ResponsiveBar } from "@nivo/bar";
 import { mockBarData as data } from "../data/mockData";
 import { tokens } from "../theme";

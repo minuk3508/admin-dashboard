@@ -9,22 +9,16 @@ body,
   font-family: "Alfa Slab One", cursive;
   font-family: "Noto Sans KR", sans-serif;
 }
-
 .app {
   display: flex;
   position: relative;
 }
-
 ::-webkit-scrollbar {
   width: 4px;
 }
-
-/*track*/
 ::-webkit-scrollbar-track {
   background: none;
 }
-
-/*handle*/
 ::-webkit-scrollbar-thumb {
   background: #888;
   border-radius: 10px;
