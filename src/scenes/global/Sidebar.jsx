@@ -103,7 +103,7 @@ const Sidebars = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  MinUk
+                  Minuk
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
                   Sub Admin
